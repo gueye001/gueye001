@@ -22,6 +22,15 @@
 
 ---
 
+## 🔄 Actuellement
+
+**Bank Transaction Volume Forecasting Challenge** — Zindi, June Study Jam Series
+*Transformer des signaux comportementaux en prévisions de volumes de transactions* · séries temporelles · classement provisoire en cours
+
+<img src="images/bank-forecasting-rank.png" width="700" alt="Classement provisoire — Bank Transaction Volume Forecasting Challenge"/>
+
+---
+
 ## 🌟 High-Leverage Projects
 
 | Projet | Description | Stack |
@@ -29,6 +38,12 @@
 | 🏔️ **[Natural Scene Classification](https://github.com/gueye001/natural-scene-classification)** | Classification d'images en 6 catégories · ensemble EfficientNetV2 + ConvNeXt · 4e/compétition IOAI 2026 · F1 Micro : 0.9570 | PyTorch, timm, FastAPI, Docker, Cloud Run |
 | 🌍 **[African Health QA](https://github.com/gueye001/african-health-qa)** | QA santé en langues africaines à faibles ressources (Luganda, Amharique, Akan, Swahili) · fine-tuning LoRA Llama-3.1-8B + pipeline RAG (BGE-M3, FAISS, reranking) · 88e/1595 — ITU x Zindi | Llama-3.1, LoRA, FAISS, RAG, BGE-M3 |
 | 💰 **[Africa Credit Scoring](https://github.com/gueye001/Africa-Credit-Scoring-Challenge)** | Prédiction de défaut de prêt avec domain shift Kenya → Ghana · 17e/151 · stacking multi-granularité LightGBM/XGBoost/RF/CatBoost · F1 : 0.6805 | LightGBM, XGBoost, FastAPI, Docker |
+
+---
+
+## 🔄 Actuellement
+
+- **Bank Transaction Volume Forecasting Challenge** (Zindi, June Study Jam) — prévision de volumes de transactions bancaires à partir de signaux comportementaux · séries temporelles · classement provisoire : 34e · compétition en cours
 
 ---
 
