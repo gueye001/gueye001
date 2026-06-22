@@ -27,7 +27,7 @@
 **Bank Transaction Volume Forecasting Challenge** — Zindi, June Study Jam Series
 *Transformer des signaux comportementaux en prévisions de volumes de transactions* · séries temporelles · classement provisoire en cours
 
-<img src="images/bank-forecasting-rank.png" width="700" alt="Classement provisoire — Bank Transaction Volume Forecasting Challenge"/>
+<img src="images/bank-forecasting-rank.png" width="900" alt="Classement provisoire — Bank Transaction Volume Forecasting Challenge"/>
 
 ---
 
